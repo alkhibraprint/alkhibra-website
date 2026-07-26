@@ -1,0 +1,8 @@
+V11.5 UPLOAD-READY VERIFICATION
+
+HTML pages: 75
+Google Analytics ID: G-MP6T48Q3WC
+Pages containing ID exactly twice: 75
+Missing Analytics pages: 0
+Packaging: files are placed at ZIP root for direct GitHub upload.
+Deployment marker: v11.5-ga-verified
