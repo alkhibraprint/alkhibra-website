@@ -1,0 +1,22 @@
+AL KHIBRA WEBSITE — FINAL VERIFICATION V11.4
+
+Measurement ID: G-MP6T48Q3WC
+HTML pages: 75
+Broken local references: 0
+JSON-LD / Schema errors: 0
+Pages missing Google Analytics: 0
+Pages with duplicate Google tag loader: 0
+Sitemap URLs checked: 72
+Missing sitemap targets: 0
+
+Fixed assets:
+- assets/images/storefront-primary.webp
+- assets/images/storefront-primary-thumb.webp
+
+Required files:
+- index.html: OK
+- robots.txt: OK
+- sitemap.xml: OK
+- contact.html: OK
+- assets/images/storefront-primary.webp: OK
+- assets/images/storefront-primary-thumb.webp: OK
