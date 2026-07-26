@@ -1,0 +1,11 @@
+{
+  "version": "11.2-final",
+  "html_pages": 75,
+  "broken_local_links": 0,
+  "jsonld_errors": 0,
+  "article18_exists": true,
+  "article20_exists": true,
+  "old_article20_redirect_exists": true,
+  "analytics_measurement_id_present": false,
+  "note": "Google Analytics was not inserted because no Measurement ID was available in the project or prior context."
+}

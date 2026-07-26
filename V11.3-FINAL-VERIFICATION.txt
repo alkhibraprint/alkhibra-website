@@ -1,0 +1,14 @@
+ALKHIBRA WEBSITE V11.3 FINAL VERIFICATION
+Google Analytics Measurement ID: G-MP6T48Q3WC
+HTML pages checked: 75
+Pages with Analytics exactly once: 75
+Analytics issues: 0
+Broken local links: 0
+JSON-LD errors: 0
+
+Analytics issues details:
+[]
+Broken links details:
+[]
+Schema errors details:
+[]
