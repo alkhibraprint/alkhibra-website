@@ -1,0 +1,11 @@
+Version 5 SEO changes
+- 54 HTML pages
+- Dedicated service pages for company, individual and printing services
+- Blog and practical guides
+- Local Hawally landing pages
+- Unique titles, descriptions and canonicals
+- Organization, LocalBusiness, Service, Article, FAQ and Breadcrumb schema
+- Internal links and category hubs
+- Updated sitemap and robots.txt
+- WebP images, dimensions, lazy-loading where appropriate
+- Accessible navigation improvements

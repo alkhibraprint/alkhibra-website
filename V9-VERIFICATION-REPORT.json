@@ -1,0 +1,38 @@
+{
+  "version": "9.0",
+  "build_date": "2026-07-26",
+  "updated_service_pages": [
+    "commercial-register-extract.html",
+    "commercial-license-renewal.html",
+    "signature-authorization.html",
+    "fire-license.html",
+    "company-data-update.html",
+    "partner-entry-exit.html",
+    "company-address-change.html",
+    "residency-renewal.html",
+    "family-joining.html",
+    "family-visit-visa.html",
+    "civil-id-photo-update.html",
+    "advertising-license.html",
+    "manpower-estimation.html"
+  ],
+  "homepage": [
+    "خبرة منذ 2018",
+    "أكثر من 10,000 معاملة",
+    "قسم لماذا يختارنا العملاء",
+    "أسئلة شائعة"
+  ],
+  "seo": [
+    "unique titles and descriptions",
+    "Service schema",
+    "FAQ schema",
+    "Breadcrumb schema",
+    "updated sitemap",
+    "cache-busted CSS/JS"
+  ],
+  "validation": {
+    "missing_internal_links": [],
+    "invalid_jsonld": [],
+    "duplicate_titles": {}
+  }
+}

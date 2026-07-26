@@ -1,0 +1,25 @@
+{
+  "name": "الخبرة الدولية للطباعة وتصوير المستندات",
+  "short_name": "الخبرة الدولية",
+  "description": "خدمات الطباعة وتصوير المستندات وتجهيز معاملات الشركات والأفراد في حولي.",
+  "lang": "ar-KW",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#063caa",
+  "icons": [
+    {
+      "src": "assets/images/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

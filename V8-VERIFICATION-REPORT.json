@@ -1,0 +1,15 @@
+{
+  "version": "8.0-final-root-2026-07-25",
+  "html_pages": 68,
+  "all_files": 113,
+  "missing_internal_links": [],
+  "duplicate_titles": {},
+  "duplicate_descriptions": {},
+  "numbered_text_inside_li": [],
+  "key_checks": {
+    "blog_has_19": true,
+    "services_has_three_sections": true,
+    "license_no_double_numbering": true,
+    "deployment_check_v8": true
+  }
+}

@@ -1,0 +1,24 @@
+VERSION 5.2 – المرحلة الثانية
+
+تم في هذه النسخة:
+- إعادة كتابة وتوسيع 10 صفحات أساسية ذات أولوية عالية.
+- إضافة محتوى فريد لكل صفحة بدل النصوص القصيرة المتكررة.
+- إضافة أسئلة شائعة مخصصة لكل خدمة.
+- إضافة روابط داخلية إلى خدمات مرتبطة.
+- إضافة Service + FAQPage + Breadcrumb Schema للصفحات المطورة.
+- تقوية 20 صفحة خدمة إضافية بأقسام مراجعة الملف ومزايا الخدمة.
+- تحديث sitemap.xml ليشمل 54 صفحة.
+- تحسين Breadcrumb الظاهر في الصفحات الأساسية.
+- عدم عرض أسعار ثابتة وفق طلب العميل.
+
+الصفحات الأساسية المطورة:
+- company-license-issuance.html
+- commercial-license-renewal.html
+- company-data-update.html
+- add-remove-business-activity.html
+- family-joining.html
+- civil-id-photo-update.html
+- printing-student-services.html
+- printing-hawally.html
+- word-typing.html
+- scanner-pdf.html
