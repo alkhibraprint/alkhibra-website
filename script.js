@@ -51,3 +51,6 @@ if(back){
     input.focus();
   });
 })();
+
+// V15_BLOG_FILTER
+document.addEventListener('DOMContentLoaded',()=>{const input=document.getElementById('blog-search');if(!input)return;const cards=[...document.querySelectorAll('.blog-grid .blog-card')];const status=document.getElementById('blog-search-status');const clear=document.getElementById('blog-search-clear');const normalize=s=>(s||'').toLowerCase().trim();const run=()=>{const q=normalize(input.value);let shown=0;cards.forEach(card=>{const match=!q||normalize(card.textContent).includes(q);card.hidden=!match;if(match)shown++;});if(status)status.textContent=q?`تم العثور على ${shown} مقال`:`يتم عرض ${cards.length} مقال`;};input.addEventListener('input',run);if(clear)clear.addEventListener('click',()=>{input.value='';run();input.focus();});run();});
