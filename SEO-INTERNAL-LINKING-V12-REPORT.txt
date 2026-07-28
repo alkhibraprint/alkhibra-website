@@ -1,0 +1,89 @@
+تقرير تحسين الربط الداخلي - V12
+================================
+عدد الصفحات المعدلة: 71
+عدد الروابط الداخلية المكسورة: 0
+عدد روابط الصفحة لنفسها: 20
+
+التحسينات المنفذة:
+- إضافة روابط سياقية داخل محتوى كل صفحة إلى 3 صفحات مرتبطة مباشرة.
+- تخصيص قسم خدمات مرتبطة لكل صفحة بدل تكرار نفس الروابط في جميع الصفحات.
+- تحسين مسار التنقل Breadcrumb ليربط كل خدمة بالقسم الصحيح.
+- تحديث BreadcrumbList Schema ليتوافق مع مسار التنقل المرئي.
+- إضافة تنسيق متجاوب لبطاقات الروابط ذات الصلة.
+- فحص جميع الروابط الداخلية بعد التعديل.
+
+الصفحات المعدلة:
+about.html
+add-remove-business-activity.html
+advertising-license.html
+best-file-format-for-printing.html
+black-white-printing.html
+blog.html
+civil-id-address-update-guide.html
+civil-id-address-update.html
+civil-id-photo-tips.html
+civil-id-photo-update.html
+civil-id-services.html
+color-printing.html
+commercial-license-issuance.html
+commercial-license-renewal-common-errors.html
+commercial-license-renewal.html
+commercial-register-extract-guide.html
+commercial-register-extract.html
+company-accounting-files.html
+company-address-change.html
+company-data-update-guide.html
+company-data-update.html
+company-document-organization-guide.html
+company-formation-checklist-kuwait.html
+company-formation-kuwait.html
+company-license-issuance.html
+company-services-hawally.html
+company-services.html
+contact.html
+cv-printing-typing.html
+document-copying.html
+document-scanning-quality-guide.html
+domestic-worker-renewal-checklist.html
+domestic-worker-residency-renewal-article20.html
+family-joining-documents-preparation.html
+family-joining.html
+family-visit-visa.html
+fire-license.html
+government-forms-typing.html
+hawally-printing-guide.html
+health-insurance-payment.html
+health-license.html
+how-to-prepare-advertising-license-file.html
+how-to-prepare-commercial-license-renewal.html
+index.html
+individual-services.html
+manpower-estimation.html
+notes-printing.html
+partner-change-guide-kuwait.html
+partner-entry-exit.html
+passport-data-transfer.html
+prepare-research-for-printing.html
+printing-checklist-before-send.html
+printing-hawally.html
+printing-near-hawally-services.html
+printing-services.html
+printing-student-services.html
+residency-renewal.html
+scan-documents-to-pdf.html
+scanner-pdf.html
+services.html
+signature-authorization.html
+spiral-binding.html
+spiral-vs-thermal-binding.html
+student-printing-checklist-kuwait.html
+student-research-printing.html
+student-services-hawally.html
+thermal-binding.html
+traffic-services.html
+word-typing.html
+work-residency-renewal-article18.html
+work-residency-renewal-checklist.html
+
+الروابط المكسورة:
+لا توجد
