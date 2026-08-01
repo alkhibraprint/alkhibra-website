@@ -235,3 +235,12 @@ html{scroll-behavior:smooth}main:focus{outline:none}
 /* V18 service guide enhancements */
 .v18-service-guide{margin-top:2rem;padding:1.4rem;border-radius:18px;background:#fff;box-shadow:0 8px 28px rgba(6,60,170,.08);border:1px solid rgba(6,60,170,.12)}
 .v18-service-guide h2{color:#063caa;margin-top:0}.v18-service-guide h3{color:#b51f2a}.v18-service-guide ul{padding-right:1.3rem}.v18-service-guide .notice.warning{margin-top:1rem;padding:1rem;border-right:4px solid #b51f2a;background:#fff7f7;border-radius:10px}
+
+/* V23 student services */
+.student-offer-hero{background:linear-gradient(135deg,#063caa,#0c63d6);color:#fff;border-radius:22px;padding:28px;margin:24px 0;text-align:center;box-shadow:0 12px 30px rgba(6,60,170,.18)}
+.student-offer-hero .offer-kicker{display:block;font-weight:800;font-size:1rem;margin-bottom:6px}.student-offer-hero strong{display:block;font-size:clamp(1.55rem,4vw,2.25rem);margin-bottom:8px}.student-offer-hero p{color:#fff;margin:0 0 16px}
+.student-service-grid,.audience-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:18px 0 28px}.student-service-grid a,.audience-grid>div{display:flex;flex-direction:column;gap:6px;padding:18px;border:1px solid #dce7f7;border-radius:16px;background:#fff;text-decoration:none;color:#1a2b45;box-shadow:0 6px 18px rgba(18,55,95,.06)}.student-service-grid a:hover{transform:translateY(-2px);border-color:#0c63d6}.student-service-grid b,.audience-grid b{font-size:1.08rem;color:#063caa}.student-service-grid span,.audience-grid p{margin:0;color:#4b5c73}.audience-grid a{margin-top:auto;font-weight:700;color:#063caa}
+@media(max-width:700px){.student-service-grid,.audience-grid{grid-template-columns:1fr}.student-offer-hero{padding:22px 16px}}
+
+/* V25 Student Center */
+.student-offer-card{margin:28px 0;padding:26px;border-radius:18px;background:linear-gradient(135deg,#fff6e8,#fff);border:2px solid #ffb24a;text-align:center;box-shadow:0 10px 30px rgba(0,0,0,.06)}.student-offer-card span{font-weight:800;color:#b34900}.student-offer-card h2{margin:8px 0;color:#063caa}.audience-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}.audience-grid article{background:#fff;border:1px solid #e6ebf3;border-radius:16px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,.05)}.audience-grid h3{margin-top:0;color:#063caa}@media(max-width:900px){.audience-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:560px){.audience-grid{grid-template-columns:1fr}.student-offer-card{padding:20px}}
