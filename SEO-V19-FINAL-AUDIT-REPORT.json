@@ -1,0 +1,23 @@
+{
+  "version": "V19 Final SEO Audit",
+  "html_pages": 76,
+  "sitemap_urls": 73,
+  "xml_valid": true,
+  "duplicate_sitemap_urls": 0,
+  "sitemap_missing_pages": [],
+  "broken_internal_links": [],
+  "missing_assets": [],
+  "invalid_json_ld": [],
+  "images_missing_alt": [],
+  "pages_without_single_h1": [],
+  "pages_without_contact_cta": [],
+  "duplicate_titles": {},
+  "duplicate_descriptions": {},
+  "changes_made": [
+    "Improved 5 short meta descriptions and synchronized Open Graph/Twitter descriptions.",
+    "Shortened 3 overlong page titles and synchronized Open Graph/Twitter titles.",
+    "Revalidated HTML metadata, canonical tags, H1 structure, structured data, images, internal links, assets, robots.txt, and sitemap.xml."
+  ],
+  "remaining_technical_issues": [],
+  "note": "The duplicate canonical on domestic-worker-residency-renewal.html is intentional because it is a noindex redirect to the current Article 20 page."
+}
