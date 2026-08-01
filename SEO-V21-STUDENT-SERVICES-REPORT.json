@@ -1,0 +1,17 @@
+{
+  "version": "V21",
+  "new_page": "student-services-kuwait.html",
+  "html_pages": 77,
+  "sitemap_urls": 74,
+  "updated_pages": [
+    "printing-services.html",
+    "index.html",
+    "notes-printing.html",
+    "color-printing.html",
+    "printing-student-services.html",
+    "student-services-hawally.html",
+    "student-research-printing.html",
+    "black-white-printing.html"
+  ],
+  "validation_issues": []
+}
