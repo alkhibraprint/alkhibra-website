@@ -1,0 +1,12 @@
+SEO V17.1 INTERNAL LINKING REVIEW
+
+HTML pages: 76
+Modified pages: 73
+Estimated added contextual links: 655
+Breadcrumbs added: 1
+Breadcrumb schemas added: 5
+Total internal links after: 2564
+Broken internal links: 0
+Orphan pages: 0
+
+No broken links or orphan pages detected.

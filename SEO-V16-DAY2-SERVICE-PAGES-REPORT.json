@@ -1,0 +1,62 @@
+[
+  {
+    "file": "commercial-license-renewal.html",
+    "faq_count": 13,
+    "v16_section": true,
+    "schema_faq": 1
+  },
+  {
+    "file": "commercial-license-issuance.html",
+    "faq_count": 7,
+    "v16_section": true,
+    "schema_faq": 1
+  },
+  {
+    "file": "company-license-issuance.html",
+    "faq_count": 7,
+    "v16_section": true,
+    "schema_faq": 1
+  },
+  {
+    "file": "signature-authorization.html",
+    "faq_count": 9,
+    "v16_section": true,
+    "schema_faq": 1
+  },
+  {
+    "file": "company-data-update.html",
+    "faq_count": 9,
+    "v16_section": true,
+    "schema_faq": 1
+  },
+  {
+    "file": "manpower-estimation.html",
+    "faq_count": 9,
+    "v16_section": true,
+    "schema_faq": 1
+  },
+  {
+    "file": "work-residency-renewal-article18.html",
+    "faq_count": 10,
+    "v16_section": true,
+    "schema_faq": 1
+  },
+  {
+    "file": "family-joining.html",
+    "faq_count": 9,
+    "v16_section": true,
+    "schema_faq": 1
+  },
+  {
+    "file": "advertising-license.html",
+    "faq_count": 9,
+    "v16_section": true,
+    "schema_faq": 1
+  },
+  {
+    "file": "fire-license.html",
+    "faq_count": 9,
+    "v16_section": true,
+    "schema_faq": 1
+  }
+]

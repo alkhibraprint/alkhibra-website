@@ -1,0 +1,25 @@
+SEO V17 — Practical Content Rewrite
+Date: 2026-08-01
+
+Updated pages:
+- company-formation-kuwait.html
+- commercial-license-issuance.html
+- company-license-issuance.html
+- commercial-register-extract.html
+- signature-authorization.html
+- manpower-estimation.html
+- how-to-issue-commercial-register-kuwait.html
+- company-formation-checklist-kuwait.html
+- commercial-register-extract-guide.html
+
+Main changes:
+- Corrected the sequence: company data and names -> approvals -> Ministry of Justice incorporation contract authentication -> commercial register -> commercial license on the automated address number -> manpower file -> signature authorization.
+- Added the actual five-name workflow and retry with five new names when rejected.
+- Clarified that lease contract and recent rent receipt belong to the license stage.
+- Added municipality-location compatibility as a primary delay risk.
+- Added practical manpower-estimation factors.
+- Reframed document review as part of paid transaction preparation, not open free consultation.
+- Updated visible FAQs and FAQ schema.
+- Updated meta descriptions, social descriptions, build markers and sitemap lastmod.
+
+Verification issues: how-to-issue-commercial-register-kuwait.html: title; how-to-issue-commercial-register-kuwait.html: faq; how-to-issue-commercial-register-kuwait.html: build; company-formation-checklist-kuwait.html: title; company-formation-checklist-kuwait.html: faq; company-formation-checklist-kuwait.html: build; commercial-register-extract-guide.html: title; commercial-register-extract-guide.html: faq; commercial-register-extract-guide.html: build

@@ -1,0 +1,23 @@
+SEO V16 - Day 4 Content Cluster
+
+Created:
+- how-to-issue-commercial-register-kuwait.html
+
+Article includes:
+- Entity types: SPC, LLC, partnership, sole establishment
+- General steps and document review
+- Electronic procedures clarification
+- Special approval clarification
+- No prices or fixed timelines
+- 10 visible FAQs + FAQPage schema
+- BlogPosting and Breadcrumb schema
+- Official MOCI source links
+- Internal links to formation, license, extract, authorization and pillar page
+
+Updated:
+- blog.html
+- company-services.html
+- company-formation-kuwait.html
+- commercial-license-issuance.html
+- commercial-register-extract.html
+- sitemap.xml

@@ -1,0 +1,22 @@
+{
+  "version": "V18 Final Audit",
+  "date": "2026-08-01",
+  "html_pages": 76,
+  "sitemap_urls": 73,
+  "orphan_pages": [],
+  "schema_counts": {
+    "Organization": 53,
+    "['LocalBusiness', 'ProfessionalService']": 43,
+    "Service": 21,
+    "FAQPage": 23,
+    "BreadcrumbList": 53,
+    "BlogPosting": 9,
+    "['LocalBusiness', 'Organization']": 14,
+    "Article": 14,
+    "Blog": 1,
+    "Unknown": 20,
+    "CollectionPage": 4
+  },
+  "issues": [],
+  "search_console_note": "يلزم فحص بيانات Search Console بعد رفع النسخة؛ لا يمكن إثبات حالة الفهرسة من الملفات المحلية."
+}
