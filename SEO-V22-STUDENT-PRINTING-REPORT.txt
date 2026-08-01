@@ -1,0 +1,5 @@
+V22 Student Printing Expansion
+- Added 4 focused student pages: homework, past exams, university, IG/American Diploma.
+- Strengthened notes and color printing pages.
+- Added student hub blocks to homepage and printing services page.
+- Updated student pillar internal links and sitemap.
