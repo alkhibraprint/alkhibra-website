@@ -1,0 +1,13 @@
+{
+  "version": "V26.2",
+  "date": "2026-08-01",
+  "scope": "Student services and printing cluster",
+  "pages_updated": 30,
+  "changes": [
+    "Added or expanded a consistent six-link student/printing cluster navigation across relevant pages",
+    "Strengthened weak meta descriptions on priority printing and binding pages",
+    "Added author and publisher metadata where missing",
+    "Improved the WhatsApp/email redirect alias with noindex, canonical and JavaScript fallback",
+    "Updated sitemap lastmod values for modified pages"
+  ]
+}

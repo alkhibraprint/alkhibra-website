@@ -1,0 +1,31 @@
+{
+  "version": "V26.3",
+  "updated_pages": [
+    "company-formation-kuwait.html",
+    "commercial-license-issuance.html",
+    "commercial-license-renewal.html",
+    "commercial-register-extract.html",
+    "company-data-update.html",
+    "add-remove-business-activity.html",
+    "company-address-change.html",
+    "signature-authorization.html",
+    "manpower-estimation.html",
+    "advertising-license.html",
+    "fire-license.html",
+    "health-license.html",
+    "company-accounting-files.html",
+    "partner-entry-exit.html"
+  ],
+  "updated_count": 14,
+  "schema_added": {
+    "Service": 0,
+    "BreadcrumbList": 0,
+    "FAQPage": 0
+  },
+  "meta_added": 0,
+  "html_pages": 84,
+  "missing_local_assets": [],
+  "json_errors": [],
+  "h1_issues": [],
+  "canonical_missing": []
+}

@@ -1,0 +1,5 @@
+PASS
+HTML pages checked: 84
+Broken local references: 0
+Invalid JSON-LD: 0
+Homepage H1 count: 1

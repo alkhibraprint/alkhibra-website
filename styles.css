@@ -244,3 +244,6 @@ html{scroll-behavior:smooth}main:focus{outline:none}
 
 /* V25 Student Center */
 .student-offer-card{margin:28px 0;padding:26px;border-radius:18px;background:linear-gradient(135deg,#fff6e8,#fff);border:2px solid #ffb24a;text-align:center;box-shadow:0 10px 30px rgba(0,0,0,.06)}.student-offer-card span{font-weight:800;color:#b34900}.student-offer-card h2{margin:8px 0;color:#063caa}.audience-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}.audience-grid article{background:#fff;border:1px solid #e6ebf3;border-radius:16px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,.05)}.audience-grid h3{margin-top:0;color:#063caa}@media(max-width:900px){.audience-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:560px){.audience-grid{grid-template-columns:1fr}.student-offer-card{padding:20px}}
+
+/* V26.3 company journey */
+.company-journey-v263{padding:48px 0;background:#f7f9fc;border-top:1px solid #e7edf5;border-bottom:1px solid #e7edf5}.company-journey-v263 .section-head{margin-bottom:22px}.company-journey-v263 .related-grid{margin-top:18px}
