@@ -1,0 +1,20 @@
+SEO V20 PRODUCTION RELEASE
+==========================
+
+html_pages: 76
+indexable_pages: 73
+sitemap_urls: 73
+modified_pages: 76
+removed_old_reports: 28
+internal_links_checked: 4049
+issues: 0
+
+Changes:
+- Unified x-site-build to 20.0-production-release-2026-08-01 across all HTML pages.
+- Removed legacy SITE-BUILD markers.
+- Updated CSS/JS cache-busting references to v=20.0.
+- Removed historical audit reports from production root.
+- Revalidated metadata, canonical tags, H1, JSON-LD, assets, links, sitemap and robots.txt.
+
+Issues:
+None detected.
