@@ -1,1 +1,1 @@
-V25 production SEO balance - 2026-08-01
+V25.1 - fixed WhatsApp/email page alias
