@@ -247,3 +247,25 @@ html{scroll-behavior:smooth}main:focus{outline:none}
 
 /* V26.3 company journey */
 .company-journey-v263{padding:48px 0;background:#f7f9fc;border-top:1px solid #e7edf5;border-bottom:1px solid #e7edf5}.company-journey-v263 .section-head{margin-bottom:22px}.company-journey-v263 .related-grid{margin-top:18px}
+
+/* V27.3: persistent mobile map and social shortcuts */
+@media (max-width:760px){
+  .mobile-bar{
+    grid-template-columns:repeat(5,minmax(0,1fr))!important;
+  }
+  .mobile-bar a{
+    padding:8px 2px!important;
+    font-size:.68rem!important;
+    line-height:1.15;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+  }
+  .mobile-bar b{
+    font-size:1.05rem!important;
+    margin-bottom:2px;
+  }
+  .footer .footer-grid>div:last-child a{
+    display:block!important;
+  }
+}
