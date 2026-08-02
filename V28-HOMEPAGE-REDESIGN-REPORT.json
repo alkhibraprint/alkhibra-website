@@ -1,0 +1,14 @@
+{
+  "version": "V28.0",
+  "scope": "Homepage first-screen redesign",
+  "changes": [
+    "Rebuilt the homepage hero with a shorter, clearer conversion-focused message",
+    "Added two primary actions only: WhatsApp and choose service",
+    "Added student offer, quick benefits, and trust indicators",
+    "Added a desktop quick-services panel",
+    "Converted the service categories into a clean 2x2 mobile grid",
+    "Reduced first-screen clutter and moved large statistics out of the dominant visual area",
+    "Preserved existing page metadata, canonical URL, schema, and internal SEO structure",
+    "Updated CSS cache version to 28.0"
+  ]
+}
