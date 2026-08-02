@@ -1,0 +1,2 @@
+V30 Stable - 2026-08-02
+Technical SEO freeze release based on V28 homepage redesign.
