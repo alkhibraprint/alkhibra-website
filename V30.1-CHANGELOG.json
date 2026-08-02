@@ -1,0 +1,122 @@
+[
+  {
+    "file": "commercial-license-issuance.html",
+    "change": "shortened title",
+    "from": "إصدار الترخيص التجاري في الكويت | بعد السجل التجاري | الخبرة الدولية",
+    "to": "إصدار الترخيص التجاري في الكويت | الخبرة الدولية"
+  },
+  {
+    "file": "company-license-issuance.html",
+    "change": "shortened title",
+    "from": "إصدار تراخيص الشركات في الكويت | رحلة السجل والترخيص | الخبرة الدولية",
+    "to": "إصدار تراخيص الشركات في الكويت | الخبرة الدولية"
+  },
+  {
+    "file": "manpower-estimation.html",
+    "change": "shortened title",
+    "from": "تقدير الاحتياج وزيادة العمالة في الكويت | عوامل تحديد العدد والمهن",
+    "to": "تقدير الاحتياج للعمالة في الكويت | الخبرة الدولية"
+  },
+  {
+    "file": "about.html",
+    "change": "added internal links",
+    "links": [
+      "printing-services.html",
+      "student-services-kuwait.html",
+      "company-services.html",
+      "contact.html"
+    ]
+  },
+  {
+    "file": "company-services-hawally.html",
+    "change": "added internal links",
+    "links": [
+      "company-formation-kuwait.html",
+      "commercial-license-renewal.html",
+      "signature-authorization.html",
+      "contact.html"
+    ]
+  },
+  {
+    "file": "ig-american-diploma-printing.html",
+    "change": "added internal links",
+    "links": [
+      "notes-printing.html",
+      "color-printing.html",
+      "binding-services.html",
+      "print-files-whatsapp-email.html"
+    ]
+  },
+  {
+    "file": "traffic-services.html",
+    "change": "added internal links",
+    "links": [
+      "individual-services.html",
+      "civil-id-services.html",
+      "passport-data-transfer.html",
+      "contact.html"
+    ]
+  },
+  {
+    "file": "university-student-printing.html",
+    "change": "added internal links",
+    "links": [
+      "student-research-printing.html",
+      "color-printing.html",
+      "word-typing.html",
+      "print-files-whatsapp-email.html"
+    ]
+  },
+  {
+    "file": "notes-printing.html",
+    "change": "clarified search intent",
+    "linked_to": "student-services-kuwait.html"
+  },
+  {
+    "file": "student-services-kuwait.html",
+    "change": "clarified search intent",
+    "linked_to": "notes-printing.html"
+  },
+  {
+    "file": "printing-services.html",
+    "change": "clarified search intent",
+    "linked_to": "hawally-printing-guide.html"
+  },
+  {
+    "file": "hawally-printing-guide.html",
+    "change": "clarified search intent",
+    "linked_to": "printing-services.html"
+  },
+  {
+    "file": "commercial-license-renewal.html",
+    "change": "clarified search intent",
+    "linked_to": "how-to-prepare-commercial-license-renewal.html"
+  },
+  {
+    "file": "how-to-prepare-commercial-license-renewal.html",
+    "change": "clarified search intent",
+    "linked_to": "commercial-license-renewal.html"
+  },
+  {
+    "file": "company-data-update.html",
+    "change": "clarified search intent",
+    "linked_to": "company-data-update-guide.html"
+  },
+  {
+    "file": "company-data-update-guide.html",
+    "change": "clarified search intent",
+    "linked_to": "company-data-update.html"
+  },
+  {
+    "file": "print-from-whatsapp-email.html",
+    "change": "completed social metadata",
+    "added": [
+      "og:image",
+      "twitter:image"
+    ]
+  },
+  {
+    "file": "styles.css",
+    "change": "added styles for intent notes and internal links"
+  }
+]

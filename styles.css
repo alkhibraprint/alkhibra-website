@@ -638,3 +638,10 @@ html{scroll-behavior:smooth}main:focus{outline:none}
   .v28-trust{grid-template-columns:1fr 1fr}
   .v28-trust div:last-child{grid-column:1/-1}
 }
+
+
+/* V30.1 intent and internal-link refinements */
+.v301-intent-note{margin-top:22px;margin-bottom:20px;padding:15px 18px;border:1px solid #d9e5f5;border-right:4px solid #0b57b7;border-radius:12px;background:#f7faff;line-height:1.8;color:#26364c}
+.v301-intent-note strong{color:#073d87}.v301-intent-note a{font-weight:800;text-decoration:underline;text-underline-offset:3px}
+.v301-internal-links{margin-top:34px;margin-bottom:38px}
+@media(max-width:760px){.v301-intent-note{margin-top:14px;padding:13px 14px;font-size:.94rem}.v301-internal-links{margin-top:26px}}
