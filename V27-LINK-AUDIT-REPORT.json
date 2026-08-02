@@ -1,0 +1,21 @@
+{
+  "html_pages": 84,
+  "changed_files": 81,
+  "replacements": {
+    "maps": 371,
+    "whatsapp_encoded": 206,
+    "rel_fixed": 0
+  },
+  "local_missing": [],
+  "malformed_external": [],
+  "remaining_short_map_links": [],
+  "remaining_unencoded_whatsapp": [],
+  "unique_external_links": 195,
+  "unique_tel_links": [
+    "tel:+96555082884"
+  ],
+  "unique_mailto_links": [
+    "mailto:elkhebra2022@gmail.com"
+  ],
+  "map_link_used": "https://www.google.com/maps/dir/?api=1&destination=29.3259394,48.0136062"
+}

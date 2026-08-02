@@ -1,0 +1,13 @@
+V27.2 SOCIAL LINKS RESTORED
+Date: 2026-08-02
+
+Facebook: https://www.facebook.com/profile.php?id=100086466938999
+Instagram: https://www.instagram.com/elkhebra2022/
+
+Changes:
+- Restored visible Facebook and Instagram links in the top bar where missing.
+- Added Facebook and Instagram links to the footer contact section on user-facing pages, so they remain visible on mobile where the top bar is hidden.
+- Updated sameAs structured data to include Facebook, Instagram and the direct Google Maps directions URL.
+
+Pages changed: 57
+Pages missing visible social links after audit: 1

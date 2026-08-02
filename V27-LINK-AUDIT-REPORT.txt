@@ -1,0 +1,10 @@
+V27 LINK AUDIT
+HTML pages: 84
+Changed files: 81
+Map links replaced: 371
+WhatsApp links normalized: 206
+External rel fixes: 0
+Local missing: 0
+Malformed external: 0
+Remaining short map links: 0
+Remaining unencoded WhatsApp links: 0

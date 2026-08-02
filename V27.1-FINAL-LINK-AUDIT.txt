@@ -1,0 +1,37 @@
+V27.1 FINAL LINK AUDIT
+Date: 2026-08-02
+
+Scope:
+- All HTML pages
+- Internal page links
+- Image, CSS and JavaScript file references
+- WhatsApp links
+- Telephone links
+- Email links
+- Google Maps links
+- Facebook and Instagram links
+- Canonical links
+- target="_blank" security attributes
+- Form actions
+
+Results:
+- HTML pages checked: 84
+- Internal/file references checked: 3793
+- External links checked structurally: 1538
+- Unique external URLs: 195
+- Telephone links: 417
+- Email links: 2
+- Missing internal links/files: 0
+- Invalid telephone links: 0
+- Invalid email links: 0
+- Short Google Maps links remaining: 0
+- Insecure HTTP links: 0
+- target="_blank" links missing noopener/noreferrer: 0
+- Invalid canonical links: 0
+- Invalid form actions: 0
+
+Google Maps URL used:
+https://www.google.com/maps/dir/?api=1&destination=29.3259394,48.0136062
+
+Important:
+External sites can change or block automated checks. Their URL formats were reviewed and are valid, while all local links and files were verified directly inside the project.

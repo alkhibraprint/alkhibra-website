@@ -1,1 +1,1 @@
-V26.4 FINAL - Technical stability, indexing hygiene and final audit - 2026-08-01
+V27 - Full link audit and Google Maps mobile fix
