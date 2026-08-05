@@ -54,3 +54,27 @@ if(back){
 
 // V15_BLOG_FILTER
 document.addEventListener('DOMContentLoaded',()=>{const input=document.getElementById('blog-search');if(!input)return;const cards=[...document.querySelectorAll('.blog-grid .blog-card')];const status=document.getElementById('blog-search-status');const clear=document.getElementById('blog-search-clear');const normalize=s=>(s||'').toLowerCase().trim();const run=()=>{const q=normalize(input.value);let shown=0;cards.forEach(card=>{const match=!q||normalize(card.textContent).includes(q);card.hidden=!match;if(match)shown++;});if(status)status.textContent=q?`تم العثور على ${shown} مقال`:`يتم عرض ${cards.length} مقال`;};input.addEventListener('input',run);if(clear)clear.addEventListener('click',()=>{input.value='';run();input.focus();});run();});
+
+// Version 2.0 / Phase 3: mobile menu and accessibility refinements.
+(function(){
+  const mobileToggle=document.querySelector('.menu-toggle');
+  const mobileMenu=document.querySelector('.menu');
+  if(!mobileToggle||!mobileMenu)return;
+  const syncBody=()=>document.body.classList.toggle('menu-open',mobileMenu.classList.contains('open'));
+  mobileToggle.addEventListener('click',()=>requestAnimationFrame(syncBody));
+  mobileMenu.querySelectorAll('a').forEach(link=>link.addEventListener('click',()=>document.body.classList.remove('menu-open')));
+  document.addEventListener('keydown',event=>{if(event.key==='Escape')document.body.classList.remove('menu-open');});
+  window.addEventListener('resize',()=>{if(window.innerWidth>900){mobileMenu.classList.remove('open');mobileToggle.setAttribute('aria-expanded','false');document.body.classList.remove('menu-open');}},{passive:true});
+})();
+
+// Wrap wide tables so they remain usable on narrow screens without changing page content.
+document.querySelectorAll('main table').forEach(table=>{
+  if(table.parentElement&&table.parentElement.classList.contains('table-scroll'))return;
+  const wrapper=document.createElement('div');
+  wrapper.className='table-scroll';
+  wrapper.setAttribute('tabindex','0');
+  wrapper.setAttribute('role','region');
+  wrapper.setAttribute('aria-label','جدول قابل للتمرير أفقيًا');
+  table.parentNode.insertBefore(wrapper,table);
+  wrapper.appendChild(table);
+});
